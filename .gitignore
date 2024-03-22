@@ -1,0 +1,12 @@
+# Ignore public directory
+public/
+
+# Ignore Firebase configuration files
+.firebase.json
+.firebaserc
+
+# Ignore Visual Studio Code configurations
+.vscode/
+
+# Ignore Firebase directory
+.firebase/
